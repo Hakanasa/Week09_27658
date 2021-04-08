@@ -1,0 +1,3 @@
+Week 09 - 27658
+
+Kesimpulannya adalah aplikasi ini telah dapat berjalan dengan baik mengimplentasikan LiveData, DAO, Room di dalamnya sehingga dapat menyimpan database local di device. Hasil juga menunjukkan kita dapat melakukan CRUD dengan baik. Create ditampilkan ketika kita menekan tombol (+), read ketika kita load data di main activity, update ketika kita swipe kanan suatu row data, dan delete ketika kita swipe ke kiri suatu row data.
